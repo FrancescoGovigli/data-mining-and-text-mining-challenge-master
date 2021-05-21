@@ -1,4 +1,4 @@
-# data-mining-and-text-mining-challenge
+# Data-mining-and-text-mining-challenge
 
 *Data Mining and Text Mining* is course offered at Politecnico di Milano.
 In this repository you can find the outputs that we created for the competition in the academic year (2020/2021).
